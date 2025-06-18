@@ -1,12 +1,12 @@
- **🎓 E-Learning Management System **
+## **🎓 E-Learning Management System **
 
 A fully interactive **E-Learning Management System** built in **C++** using Object-Oriented Programming (OOP) principles. This console-based application enables instructors and students to manage courses, assignments, quizzes, materials, and grading—simulating a real-world academic platform.
 
 ---
 
-**✅ Key Features**
+##**✅ Key Features**
 
-**👩‍🏫 Instructor Panel**
+#**👩‍🏫 Instructor Panel**
 
 - Register and securely log in
   
@@ -18,7 +18,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
   
 - Assign marks to students
 
-** 👨‍🎓 Student Panel**
+#** 👨‍🎓 Student Panel**
 
 - Register and log in
  
@@ -32,7 +32,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
 
 ---
 
-**🔍 System Overview**
+##**🔍 System Overview**
 
 - 📚 **Course Management**: Instructors can manage multiple courses independently.
   
@@ -44,7 +44,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
 
 ---
 
-** 🧠 Object-Oriented Concepts Used**
+##** 🧠 Object-Oriented Concepts Used**
 
 - **Abstraction**: Abstract `User` base class with virtual functions.
   
@@ -62,7 +62,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
 
 ---
 
-** 🛠️ How to Compile & Run**
+##** 🛠️ How to Compile & Run**
 
 1. **Clone or Download** the repository.
 2. Open the project in your preferred **C++ IDE or terminal**.
@@ -73,7 +73,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
 
 ---
 
-**🌱 Future Enhancements**
+##**🌱 Future Enhancements**
 
 💾 File Handling: Save user data persistently using file I/O
 
@@ -87,7 +87,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
 
 ---
 
-**📚 Learning Outcomes**
+##**📚 Learning Outcomes**
 
 This project helps reinforce:
 
@@ -101,13 +101,13 @@ Using STL containers effectively in real applications
 
 ---
 
-**👤 Author**
+#**👤 Author**
 
 Nibtahil Sohail Chishti
 GITHUB LINK: https://github.com/Nibtahilsohail
 
 ---
 
-**📄 License**
+#**📄 License**
 This project is released under the MIT License.
 
