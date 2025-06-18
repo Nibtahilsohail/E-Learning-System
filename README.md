@@ -6,7 +6,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
 
 ##**✅ Key Features**
 
-#**👩‍🏫 Instructor Panel**
+**👩‍🏫 Instructor Panel**
 
 - Register and securely log in
   
@@ -18,7 +18,7 @@ A fully interactive **E-Learning Management System** built in **C++** using Obje
   
 - Assign marks to students
 
-#** 👨‍🎓 Student Panel**
+** 👨‍🎓 Student Panel**
 
 - Register and log in
  
